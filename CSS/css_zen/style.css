@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+body {
+    background: linear-gradient(to bottom, transparent 10%,#908EBC),
+      url("minimalism-birds-mountains-trees-forest-9k-1920x1080.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 100px;
+    color: #413E5B;
+    text-shadow: 0px 15px 15px #908EBC;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: 0px;
+    font-family: "Permanent Marker";
+}
+
+.wrapper div {
+    display: inline-block;
+    width: 30%;
+}
+

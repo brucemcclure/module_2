@@ -1,0 +1,55 @@
+a {
+    color: aqua;
+}
+
+a:hover {
+    color: darkmagenta;
+}
+
+/* .chicken {
+    color: blue;
+}
+
+h1.chicken {
+    color: yellow;
+} */
+
+/* 
+inline styleing - 100points
+id - 100 points
+class/pseudoclass - 10 points
+element - 1 point
+*/
+
+
+
+
+
+
+
+/* h1 {
+    color:#74BDCB; 
+    font-size: 70px;
+    text-align: center;
+    background-color: #EFE7BC;
+}
+
+p {
+    background-color:#EFE7BC;
+    color: rgb(255, 108, 59);
+}
+
+#profile {
+    color: #74BDCB;
+}
+
+.oddlinks {
+    background-color: #EFE7BC;
+    color: #74BDCB;
+}
+
+.evenlinks {
+    background-color:  #74BDCB;
+    color:   #EFE7BC;
+}
+ */

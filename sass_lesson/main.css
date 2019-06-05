@@ -1,0 +1,18 @@
+section {
+  background-color: grey;
+}
+
+section h1 {
+  font size: 60px;
+}
+
+section h1:hover {
+  color: green;
+}
+
+section p {
+  font-style:italic;
+}
+
+section p span 
+

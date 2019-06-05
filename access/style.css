@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+    font-family: 'Ubuntu', cursive;
+}
+
+div {
+    font-size: 20px;
+}
+
+#one {
+    background-color: #ffb1b1;
+}
+
+#two {
+    background-color:  #b6d7b6;
+}
+
+@media screen and (max-width: 599px) {
+    #one {
+        font-size: 40px;
+    }
+}
+
+@media screen and (min-width: 599px) {
+    #two {
+        font-size: 40px;
+    }
+}

@@ -1,0 +1,59 @@
+body {
+    background-color:rgba(157, 193, 247, 0.521);
+}
+header{
+    text-align: center;
+    padding-top: 40px;
+    list-style-type: none;
+    font-size: 20px;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    box-shadow: 0 0 8px white inset;
+  }
+
+#hero.img {
+    width: 50%;
+}
+
+h1 {
+    color: #222718;
+    font-style: "cursive";
+    font-size: 75px;
+    text-align: center;
+    text-shadow:3px 3px 3px rgb(0, 24, 54);
+}
+
+h2 {
+    color: #222718;
+    font-style: "cursive";
+    font-size: 60px;
+    text-align: center;
+    text-shadow:3px 3px 3px rgb(0, 24, 54);
+}
+
+h3 {
+    color: #222718;
+    font-style: "cursive";
+    font-size: 50px;
+    text-align: center;
+    text-shadow:3px 3px 3px rgb(0, 24, 54);
+}
+
+h5 {
+    color: #222718;
+    font-style: "cursive";
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    max-width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
